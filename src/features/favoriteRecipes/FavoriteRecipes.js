@@ -23,7 +23,7 @@ export const FavoriteRecipes = () =>{
     if (isEmpty) {
         return (
             <div className = "recipes-container">
-                <p> Choose Your Favorites Recipes! </p>
+                <p> Choose Your favorite recipes from below to add here! </p>
             </div>
         );
     }
